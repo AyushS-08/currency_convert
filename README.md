@@ -4,9 +4,9 @@ This repository contains the source code for a simple yet powerful currency conv
 
 Technologies Used:
 
-->HTML5
-->CSS3
-->JavaScript (Vanilla)
+![Language](https://img.shields.io/badge/Language-HTML-red)
+![Language](https://img.shields.io/badge/Language-CSS-blue)
+![Language](https://img.shields.io/badge/Language-Javascript-yellow)
 ->Fetch API for API communication
 
 How to Use:
